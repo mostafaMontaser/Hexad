@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/movie_cell"
+        android:layout_width="match_parent"
+        android:layout_margin="@dimen/default_margin"
+        android:orientation="vertical"
+        android:layout_height="@dimen/movie_item_height">
+    <TextView
+            android:text="@string/rate_movie"
+            android:textSize="@dimen/default_txt_size"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <android.support.v7.widget.AppCompatRatingBar
+            android:id="@+id/rating_bar"
+            android:numStars="5"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:id="@+id/movie_rate_cancel_btn" android:layout_alignParentStart="true" android:layout_alignParentLeft="true"
+                android:layout_width="@dimen/rate_btn_width" android:layout_height="wrap_content" android:text="@string/cancel"/>
+        <Button android:id="@+id/movie_rate_btn" android:layout_alignParentEnd="true" android:layout_alignParentRight="true"
+                android:layout_width="@dimen/rate_btn_width" android:layout_height="wrap_content" android:text="@string/rate"/>
+
+    </RelativeLayout>
+</LinearLayout>

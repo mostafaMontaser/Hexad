@@ -1,0 +1,209 @@
+{
+  "movies": [
+    {
+      "rate": 4,
+      "vote_count": 2075,
+      "id": 19404,
+      "video": false,
+      "vote_average": 9,
+      "title": "Dilwale Dulhania Le Jayenge",
+      "popularity": 16.159,
+      "posterPath": "\/uC6TTUhPpQCmgldGyYveKRAu8JN.jpg",
+      "original_language": "hi",
+      "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "backdrop_path": "\/mMaxGuQKuH4WUHBwUNhJOetDYE9.jpg",
+      "adult": false,
+      "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+      "releaseDate": "1995-10-20"
+    },
+    {
+      "rate": 1,
+      "vote_count": 311,
+      "id": 496243,
+      "video": false,
+      "vote_average": 8.8,
+      "title": "Parasite",
+      "popularity": 25.46,
+      "posterPath": "\/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "original_language": "ko",
+      "original_title": "기생충",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "backdrop_path": "\/ny5aCtglk2kceGAuAdiyqbhBBAf.jpg",
+      "adult": false,
+      "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "releaseDate": "2019-05-30"
+    },
+    {
+      "rate": 2,
+      "vote_count": 13349,
+      "id": 278,
+      "video": false,
+      "vote_average": 8.7,
+      "title": "The Shawshank Redemption",
+      "popularity": 33.199,
+      "posterPath": "\/9O7gLzmreU0nGkIB6K3BsJbzvNv.jpg",
+      "original_language": "en",
+      "original_title": "The Shawshank Redemption",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "backdrop_path": "\/j9XKiZrVeViAixVRzCta7h1VU9W.jpg",
+      "adult": false,
+      "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "releaseDate": "1994-09-23"
+    },
+    {
+      "rate": 3,
+      "vote_count": 10203,
+      "id": 238,
+      "video": false,
+      "vote_average": 8.6,
+      "title": "The Godfather",
+      "popularity": 30.187,
+      "posterPath": "\/rPdtLWNsZmAtoZl9PK7S2wE3qiS.jpg",
+      "original_language": "en",
+      "original_title": "The Godfather",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "backdrop_path": "\/6xKCYgH16UuwEGAyroLU6p8HLIn.jpg",
+      "adult": false,
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "releaseDate": "1972-03-14"
+    },
+    {
+      "rate": 5,
+      "vote_count": 4264,
+      "id": 372058,
+      "video": false,
+      "vote_average": 8.6,
+      "title": "Your Name.",
+      "popularity": 34.098,
+      "posterPath": "\/xq1Ugd62d23K2knRUx6xxuALTZB.jpg",
+      "original_language": "ja",
+      "original_title": "君の名は。",
+      "genre_ids": [
+        10749,
+        16,
+        18
+      ],
+      "backdrop_path": "\/nvsdKYPKwf51EAgC0xLJMB9kUZM.jpg",
+      "adult": false,
+      "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+      "releaseDate": "2016-08-26"
+    },
+    {
+      "rate": 3,
+      "vote_count": 8182,
+      "id": 424,
+      "video": false,
+      "vote_average": 8.5,
+      "title": "Schindler's List",
+      "popularity": 28.635,
+      "posterPath": "\/yPisjyLweCl1tbgwgtzBCNCBle.jpg",
+      "original_language": "en",
+      "original_title": "Schindler's List",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "backdrop_path": "\/af98P1bc7lJsFjhHOVWXQgNNgSQ.jpg",
+      "adult": false,
+      "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "releaseDate": "1993-12-15"
+    },
+    {
+      "rate": 1,
+      "vote_count": 5987,
+      "id": 240,
+      "video": false,
+      "vote_average": 8.5,
+      "title": "The Godfather: Part II",
+      "popularity": 24.764,
+      "posterPath": "\/bVq65huQ8vHDd1a4Z37QtuyEvpA.jpg",
+      "original_language": "en",
+      "original_title": "The Godfather: Part II",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "backdrop_path": "\/gLbBRyS7MBrmVUNce91Hmx9vzqI.jpg",
+      "adult": false,
+      "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+      "releaseDate": "1974-12-20"
+    },
+    {
+      "rate": 2,
+      "vote_count": 7542,
+      "id": 129,
+      "video": false,
+      "vote_average": 8.5,
+      "title": "Spirited Away",
+      "popularity": 28.293,
+      "posterPath": "\/oRvMaJOmapypFUcQqpgHMZA6qL9.jpg",
+      "original_language": "ja",
+      "original_title": "千と千尋の神隠し",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "backdrop_path": "\/djgM2d3e42p9GFQObg6lwK2SVw2.jpg",
+      "adult": false,
+      "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+      "releaseDate": "2001-07-20"
+    },
+    {
+      "rate": 5,
+      "vote_count": 8439,
+      "id": 497,
+      "video": false,
+      "vote_average": 8.5,
+      "title": "The Green Mile",
+      "popularity": 19.36,
+      "posterPath": "\/sOHqdY1RnSn6kcfAHKu28jvTebE.jpg",
+      "original_language": "en",
+      "original_title": "The Green Mile",
+      "genre_ids": [
+        14,
+        18,
+        80
+      ],
+      "backdrop_path": "\/Rlt20sEbOQKPVjia7lUilFm49W.jpg",
+      "adult": false,
+      "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+      "releaseDate": "1999-12-10"
+    },
+    {
+      "rate": 3,
+      "vote_count": 7370,
+      "id": 637,
+      "video": false,
+      "vote_average": 8.5,
+      "title": "Life Is Beautiful",
+      "popularity": 18.899,
+      "posterPath": "\/f7DImXDebOs148U4uPjI61iDvaK.jpg",
+      "original_language": "it",
+      "original_title": "La vita è bella",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "backdrop_path": "\/bORe0eI72D874TMawOOFvqWS6Xe.jpg",
+      "adult": false,
+      "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+      "releaseDate": "1997-12-20"
+    }
+  ]
+}
